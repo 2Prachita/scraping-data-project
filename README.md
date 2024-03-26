@@ -2,8 +2,11 @@
 Using BeautifulSoup to scrape data from websites and creating csv files. With the scope to use mechalicalSoup.
 
 Step 1. Identify the target website(url).
+
 Step 2. Making request and loading the website content.
+
 Step 3. Extracting relevant data using locators and parsers.
+
 Step 4. Storing the data in a structured format.
 
 first website - https://quotes.toscrape.com/page/1/
